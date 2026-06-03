@@ -1,0 +1,6 @@
+{
+  "name": "MOON LOOKS",
+  "description": "Luxury architecture, bespoke interior design, and AI-enabled design curation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
